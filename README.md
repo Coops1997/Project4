@@ -23,6 +23,7 @@ Desktop after
 <img src="blob:chrome-untrusted://media-app/ebca82fe-58c0-49ce-93ee-7265758b477c" alt="Screenshot 2022-10-24 3.49.09 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197556163-f167fd7c-ba63-4e1c-8ab3-a9538325229e.png)
 
 Contact page
+
 Before desktop
 
 <img src="blob:chrome-untrusted://media-app/647d9160-14a9-4b66-98e3-260038ab0f23" alt="Screenshot 2022-10-24 3.56.42 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197558043-bce213c9-c006-44e6-a7e8-ee3ea90f0efe.png)
