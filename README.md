@@ -10,7 +10,8 @@ https://docs.google.com/spreadsheets/d/1SdmmOZSLxB3hE0_lr_BwovUX_pTmdBCb8sskY5ud
 
 Desktop before
 
-<img src="blob:chrome-untrusted://media-app/66752f32-8c4c-452a-92df-a51b14e895fd" alt="mobile before.png"/>![image](https://user-images.githubusercontent.com/83956775/197556898-8dcd666d-ec3b-4da9-b0d2-9207096a931a.png)
+<img src="blob:chrome-untrusted://media-app/4a6b504b-d4e0-4f30-b210-9f20b46648b3" alt="desktop before.png"/>![image](https://user-images.githubusercontent.com/83956775/197557342-b6a5bea9-6397-47bc-b13c-3df2248d24b4.png)
+
 
 Mobile before
 
