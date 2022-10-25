@@ -25,7 +25,7 @@ Desktop after
 
 Mobile after
 
-<img src="blob:chrome-untrusted://media-app/4b8cb427-1647-4a13-8a19-0899a26baeef" alt="mobile after.png"/>![image](https://user-images.githubusercontent.com/83956775/197574434-e67aaa97-8ae1-4b77-b064-738c82106485.png)
+<img src="blob:chrome-untrusted://media-app/437e38b1-8a09-45b9-9145-757dbdfe4e7e" alt="Screenshot 2022-10-25 8.26.31 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197864253-f949525c-2bff-4fdd-bca8-105c1e90265b.png)
 
 
 Contact page
