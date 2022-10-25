@@ -2,7 +2,7 @@
 
 URL for website
 
-https://ephemeral-sfogliatella-b77682.netlify.app/
+https://ephemeral-sfogliatella-b77682.netlify.app/home.html
 
 Excel for SEO audit
 
