@@ -2,7 +2,7 @@
 
 URL for website
 
-https://ephemeral-sfogliatella-b77682.netlify.app/
+https://ephemeral-sfogliatella-b77682.netlify.app/home.html
 
 Excel for SEO audit
 
@@ -27,13 +27,3 @@ Mobile after
 
 <img src="blob:chrome-untrusted://media-app/437e38b1-8a09-45b9-9145-757dbdfe4e7e" alt="Screenshot 2022-10-25 8.26.31 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197864253-f949525c-2bff-4fdd-bca8-105c1e90265b.png)
 
-
-Contact page
-
-Before desktop
-
-<img src="blob:chrome-untrusted://media-app/647d9160-14a9-4b66-98e3-260038ab0f23" alt="Screenshot 2022-10-24 3.56.42 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197558043-bce213c9-c006-44e6-a7e8-ee3ea90f0efe.png)
-
-Before mobile
-
-<img src="blob:chrome-untrusted://media-app/b6ff4d2d-ccd0-4816-b34a-73b8825207fe" alt="Screenshot 2022-10-24 3.58.39 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197558516-0134f3ab-90ff-47a4-b084-d3eaf380ec61.png)
