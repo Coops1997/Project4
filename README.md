@@ -20,7 +20,8 @@ Mobile before
 
 Desktop after
 
-<img src="blob:chrome-untrusted://media-app/ebca82fe-58c0-49ce-93ee-7265758b477c" alt="Screenshot 2022-10-24 3.49.09 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197556163-f167fd7c-ba63-4e1c-8ab3-a9538325229e.png)
+<img src="blob:chrome-untrusted://media-app/5e785bbf-5476-4a91-a0f0-dc05f095332b" alt="Screenshot 2022-10-25 8.22.48 PM.png"/>![image](https://user-images.githubusercontent.com/83956775/197863579-8ab47c82-ea80-4d6e-8859-e21c97530c63.png)
+
 
 Mobile after
 
